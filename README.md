@@ -2,6 +2,8 @@
 
 Este programa foi criado como WPF (C#) com o intuito de controlar um NodeMCU através de um broker MQTT.
 
+Em breve farei um tutorial partindo desde a compra do NodeMCU até controlar ele por um site especializado (gratuito) ou por este software (também gratuito). Caso alguém esteja interessado, pode me enviar um e-mail para andre.szlima1@gmail.com que farei de boa e postarei aqui.
+
 ## O que temos aqui
 
 ### Escolha seu broker
