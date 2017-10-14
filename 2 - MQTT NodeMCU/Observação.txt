@@ -1,0 +1,3 @@
+Instalar todas as bibliotecas requeridas no começo do código.
+
+Se o arquivo não estiver abrindo, abra-o em um editor de textos decente e copie o código para um novo arquivo de arduino.
