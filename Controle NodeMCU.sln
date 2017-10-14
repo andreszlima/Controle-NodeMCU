@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle NodeMCU", "Controle NodeMCU\Controle NodeMCU.csproj", "{BAF1F570-9858-402B-ABEC-49FBF793A08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF1F570-9858-402B-ABEC-49FBF793A08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF1F570-9858-402B-ABEC-49FBF793A08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF1F570-9858-402B-ABEC-49FBF793A08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF1F570-9858-402B-ABEC-49FBF793A08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF0FA05-0CB7-4CC8-8DAE-3943FF0698FE}
+	EndGlobalSection
+EndGlobal

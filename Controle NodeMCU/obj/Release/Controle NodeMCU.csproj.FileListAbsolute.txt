@@ -1,0 +1,18 @@
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Release\Controle NodeMCU.exe.config
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Release\Controle NodeMCU.exe
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Release\Controle NodeMCU.pdb
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\MainWindow.g.cs
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\App.g.cs
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle NodeMCU_MarkupCompile.cache
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle NodeMCU_MarkupCompile.lref
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\MainWindow.baml
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle NodeMCU.g.resources
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle_NodeMCU.Properties.Resources.resources
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle NodeMCU.csproj.GenerateResource.Cache
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle NodeMCU.csproj.CoreCompileInputs.cache
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle NodeMCU.exe
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle NodeMCU.pdb
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Release\M2Mqtt.Net.dll
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Release\M2Mqtt.Net.pdb
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\Controle NodeMCU.csprojResolveAssemblyReference.cache
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Release\App.baml

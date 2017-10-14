@@ -1,0 +1,18 @@
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Debug\Controle NodeMCU.exe.config
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Debug\Controle NodeMCU.exe
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Debug\Controle NodeMCU.pdb
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle NodeMCU.csprojResolveAssemblyReference.cache
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\MainWindow.g.cs
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\App.g.cs
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle NodeMCU_MarkupCompile.cache
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle NodeMCU_MarkupCompile.lref
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\MainWindow.baml
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle NodeMCU.g.resources
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle_NodeMCU.Properties.Resources.resources
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle NodeMCU.csproj.GenerateResource.Cache
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle NodeMCU.csproj.CoreCompileInputs.cache
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle NodeMCU.exe
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\Controle NodeMCU.pdb
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Debug\M2Mqtt.Net.dll
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ASL\source\repos\Controle NodeMCU\Controle NodeMCU\obj\Debug\App.baml

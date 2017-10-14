@@ -1,0 +1,45 @@
+﻿<Window x:Class="Controle_NodeMCU.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Controle_NodeMCU"
+        mc:Ignorable="d"
+        Title="André Lima - IoT 1.0" Height="417.78" Width="525"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Carregado" ResizeMode="CanMinimize"
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="64"/>
+            <RowDefinition Height="64"/>
+            <RowDefinition Height="64"/>
+            <RowDefinition Height="64"/>
+            <RowDefinition Height="64"/>
+            <RowDefinition Height="64"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="133*"/>
+            <ColumnDefinition Width="48*"/>
+            <ColumnDefinition Width="103*"/>
+            <ColumnDefinition Width="132*"/>
+            <ColumnDefinition Width="101*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtHost" HorizontalAlignment="Left" Height="23" Margin="10,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Grid.Row="1"/>
+        <Label x:Name="lHost" Content="Host" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <TextBox x:Name="txtUser" HorizontalAlignment="Left" Height="23" Margin="10,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Grid.Row="2"/>
+        <Label x:Name="lHost_Copy" Content="Usuário" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" Grid.Row="2"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Height="23" Margin="10,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Grid.Row="3"/>
+        <Label x:Name="lHost_Copy1" Content="Senha" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" Grid.Row="3"/>
+        <TextBox x:Name="txtPort" HorizontalAlignment="Left" Height="23" Margin="10,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Grid.Row="4"/>
+        <Label x:Name="lHost_Copy2" Content="Porta" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" Grid.Row="4"/>
+        <RadioButton x:Name="radioButton" Content="LED" Grid.Column="2" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="2" VerticalAlignment="Top" IsChecked="True"/>
+        <Button x:Name="bSwitch" Content="Ligar" Grid.Column="3" HorizontalAlignment="Left" Margin="28,30,0,0" Grid.Row="1" VerticalAlignment="Top" Width="76" Cursor="Arrow" Click="bSwitch_Click"/>
+        <Image x:Name="image" Grid.Column="3" HorizontalAlignment="Left" Height="108" Margin="28,10,0,0" Grid.Row="2" Grid.RowSpan="2" VerticalAlignment="Top" Width="76" Source="Imagens/desligada.jpg" Stretch="Fill"/>
+        <Button x:Name="bConectar" Content="Conectar" HorizontalAlignment="Left" Margin="29,22,0,0" VerticalAlignment="Top" Width="75" Click="bConectar_Click"/>
+        <TextBox x:Name="txtTopico" HorizontalAlignment="Left" Height="23" Margin="10,5,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Grid.Row="5"/>
+        <Label x:Name="lHost_Copy3" Content="Tópico" HorizontalAlignment="Left" Margin="10,29,0,0" VerticalAlignment="Top" Grid.Row="5"/>
+        <Button x:Name="bMudarTopico" Content="Atualizar Tópico" HorizontalAlignment="Left" Margin="0,8,0,0" Grid.Row="5" VerticalAlignment="Top" Width="90" Grid.ColumnSpan="2" Grid.Column="1" Click="bMudarTopico_Click"/>
+
+    </Grid>
+</Window>
