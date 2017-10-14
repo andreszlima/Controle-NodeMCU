@@ -1,6 +1,6 @@
 ## Resumo
 
-Este programa foi criado com o intuito de controlar um NodeMCU através de um broker MQTT.
+Este programa foi criado como WPF (C#) com o intuito de controlar um NodeMCU através de um broker MQTT.
 
 ## O que temos aqui
 
