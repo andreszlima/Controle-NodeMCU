@@ -20,6 +20,8 @@ Softwares de comunicação de IoT são muito feios e com funcionalidade duvidosa
 
 A pasta do arquivo executável deve ter consigo as dependências. Se usar só o executável não vai funcionar. Caso queira executar de outro local, basta criar um atalho.
 
+O download da versão mais atual no momento pode ser feito aqui: https://github.com/andreszlima/Controle-NodeMCU/releases/latest
+
 ## Licença
 
 A licença de uso é MIT. Você pode usar, modificar, publicar, vender, fazer o que quiser. Para mais informações, leia: [License.md](LICENSE.md)
