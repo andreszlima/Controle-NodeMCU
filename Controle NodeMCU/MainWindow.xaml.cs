@@ -29,6 +29,8 @@ namespace Controle_NodeMCU
             txtPassword.Text = "";
             txtTopico.Text = "";
             LEDControl(0);
+
+            txtHost.Focus ( );
         }
 
         static MqttClient client;
